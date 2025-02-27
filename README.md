@@ -1,5 +1,7 @@
 # Test design techniques
 
+As part of my training, I completed tasks related to testing various software components, including user forms, data filtering, payment modules, and more.
+
 [Equivalent partition](https://docs.google.com/spreadsheets/d/1xkVgGl8D1sJbSi4lW2TVE90VCVgzpeGg9eSh216qTSc/edit?gid=1618612150#gid=1618612150)
 
 [Pairwise testing](https://docs.google.com/spreadsheets/d/1WmQmCzL7X2at_7Qm_LI41a4IBIZgepSYzlRxCNasJ8g/edit?gid=0#gid=0) using teremok.
